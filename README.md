@@ -28,4 +28,3 @@ I decided to split the task into different files just for learning purposes.
 I consider that given the lack of complexity of the transformations I did it might be clearer in just one file.
 
 Details on variables and data transformation can be found at CodeBook.md
-
